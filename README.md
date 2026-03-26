@@ -46,3 +46,62 @@
 
 ### Connect
 For my full portfolio, technical logs, and the easiest way to reach me, visit **[scottpoulton.com](https://scottpoulton.com)**.
+
+
+# scott@: ~$
+
+> Perfect code is a myth. Shipping robust, high-performance tools that solve real problems is the metric that matters.
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&color=FF79C6&vCenter=true&repeat=false&lines=>+Medical+Laboratory+Science." alt="Terminal Cursor" />
+</p>
+
+---
+
+### What I'm Building
+* **[TubeTutor](https://scottpoulton.com/tubetutor):** A production-ready clinical logic engine and Python ETL pipeline designed to eliminate pre-analytical phlebotomy errors. Protected by automated PyTest CI/CD safety suites.
+* **[Library](https://scottpoulton.com/library):** A searchable cloud archive of my 100TB+ local media server, driven by a custom Python-to-Supabase sync bridge.
+* **Cafe-Roster-PWA:** A lightweight, mobile-first rostering and timesheet Progressive Web App built in TypeScript for a local cafe.
+* **[PokéBinder](https://scottpoulton.com/buylist):** A full-stack collection management app featuring an automated Python bot for TCG API syncing and Google Vision OCR.
+* **HistoHelper AI:** Developing robust data pipelines to process gigapixel Whole Slide Images (SVS) for predictive morphology in oncology.
+* **Easter Egg:** I engineered a custom, zero-dependency HTML5 Canvas endless runner (with synthesized Web Audio) for my [404 Page](https://scottpoulton.com/404).
+
+### Tech Stack & Daily Drivers
+**Languages & Databases:**
+![JavaScript](https://img.shields.io/badge/vanilla_js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+**Infrastructure & Tools:**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![PyTest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2596be)
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+**Homelab & Networking:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-%23FFFFFF.svg?style=for-the-badge&logo=tailscale&logoColor=black)
+![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
+
+**Workflow:**
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7B93E)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Antigravity](https://img.shields.io/badge/import_antigravity-eeeeee?style=for-the-badge&logo=python&logoColor=3776AB)
+
+* **Key Architecture:** CI/CD Pipeline Automation, PyTest Safety Suites, Offline-First Service Workers, WebRTC & HTML5 Canvas APIs, Automated Image Compression (Pillow/PIL), Google Cloud Vision OCR, Linux Server Administration.
+
+
+---
+
+### Connect
+For my full portfolio, technical logs, and the easiest way to reach me, visit **[scottpoulton.com](https://scottpoulton.com)**.
