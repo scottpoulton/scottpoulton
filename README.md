@@ -1,22 +1,22 @@
 # scott@README.md: ~$
 
+> somewhere / nowhere 
+
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&color=FF79C6&vCenter=true&lines=%20&repeat=false&cursor=█" alt="Terminal Cursor" />
 </p>
 
-> somewhere / nowhere 
-
 ---
 
 ### What I'm Building
-* **[TubeTutor](https://scottpoulton.com/tubetutor):** A clinical logic engine and Python ETL pipeline designed to eliminate pre analytical phlebotomy errors. 
+* **[TubeTutor](https://scottpoulton.com/tubetutor):** A clinical logic engine and Python ETL pipeline designed to eliminate pre-analytical phlebotomy errors. 
 * **[Library](https://scottpoulton.com/library):** A searchable cloud archive of my local media server.
 * **Cafe Roster PWA:** Rostering and timesheet Progressive Web App built in TypeScript.
 * **[PokéBinder](https://scottpoulton.com/buylist):** Personal collection management app featuring an automated Python bot for TCG API syncing and Google Vision OCR.
 * **HistoHelper AI:** Developing data pipelines to process gigapixel Whole Slide Images (SVS) for predictive morphology in oncology.
 * **Easter Egg:** Zero dependency HTML5 Canvas endless runner game for my [404 Page](https://scottpoulton.com/404).
 
-### Tech Stack & Daily Drivers
+### Tech Stack 
 **Languages & Databases:**
 ![JavaScript](https://img.shields.io/badge/vanilla_js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,7 +34,6 @@
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 **Homelab & Networking:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
@@ -52,6 +51,11 @@
 * **Key Architecture:** CI/CD Pipeline Automation, PyTest Safety Suites, Offline-First Service Workers, WebRTC & HTML5 Canvas APIs, Automated Image Compression (Pillow/PIL), Google Cloud Vision OCR, Linux Server Administration.
 
 ---
+
+### Contribution City
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
+</p>
 
 ### Connect
 For my full portfolio, technical logs, and the easiest way to reach me, visit **[scottpoulton.com](https://scottpoulton.com)**.
