@@ -1,5 +1,6 @@
-# scott@README.md: ~$ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&color=FF79C6&vCenter=true&lines=%20&repeat=false&width=24&height=30&cursor=█" alt="cursor" >
-> somewhere / nowhere 
+# scott@README.md: ~$ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&color=FF79C6&vCenter=true&lines=%20&repeat=false&width=24&height=30&cursor=█" alt="cursor" align="absmiddle" />
+
+> somewhere / nowhere
 
 ---
 
