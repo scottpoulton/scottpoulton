@@ -1,9 +1,5 @@
 # scott@README.md: ~$
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&color=FF79C6&vCenter=true&lines=%20&repeat=false&cursor=█" alt="Terminal Cursor" />
-</p>
-
 > somewhere / nowhere 
 
 ---
