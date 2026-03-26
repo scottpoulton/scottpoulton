@@ -42,16 +42,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7B93E)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Antigravity](https://img.shields.io/badge/import_antigravity-eeeeee?style=for-the-badge&logo=python&logoColor=3776AB)
 
 * **Key Architecture:** CI/CD Pipeline Automation, PyTest Safety Suites, Offline-First Service Workers, WebRTC & HTML5 Canvas APIs, Automated Image Compression (Pillow/PIL), Google Cloud Vision OCR, Linux Server Administration.
 
 ---
-
-### Contribution City
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
-</p>
 
 ### Connect
 For my full portfolio, technical logs, and the easiest way to reach me, visit **[scottpoulton.com](https://scottpoulton.com)**.
