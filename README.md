@@ -11,12 +11,12 @@
 ---
 
 ### What I'm Building
-* **[TubeTutor](https://scottpoulton.com/tubetutor):** A production-ready clinical logic engine and Python ETL pipeline designed to eliminate pre-analytical phlebotomy errors. Protected by automated PyTest CI/CD safety suites.
-* **[Library](https://scottpoulton.com/library):** A searchable cloud archive of my 100TB+ local media server, driven by a custom Python-to-Supabase sync bridge.
-* **Cafe-Roster-PWA:** A lightweight, mobile-first rostering and timesheet Progressive Web App built in TypeScript for a local cafe.
-* **[PokéBinder](https://scottpoulton.com/buylist):** A full-stack collection management app featuring an automated Python bot for TCG API syncing and Google Vision OCR.
+* **[TubeTutor](https://scottpoulton.com/tubetutor):** A logic engine and Python ETL pipeline designed to eliminate pre-analytical phlebotomy errors
+* **[Library](https://scottpoulton.com/library):** A searchable cloud archive of my local media server
+* **Cafe-Roster-PWA:** A rostering and timesheet Progressive Web App built in TypeScript for a local cafe.
+* **[PokéBinder](https://scottpoulton.com/buylist):** Personal collection management app featuring an automated Python bot for TCG API syncing and Google Vision OCR.
 * **HistoHelper AI:** Developing data pipelines to process gigapixel Whole Slide Images (.SVS) for predictive morphology in oncology.
-* **Easter Egg:** I engineered a custom, zero-dependency HTML5 Canvas endless runner (with synthesized Web Audio) for my [404 Page](https://scottpoulton.com/404).
+* **Easter Egg:** Zero-dependency HTML5 Canvas endless runner for my [404 Page](https://scottpoulton.com/404).
 
 ### Tech Stack & Daily Drivers
 **Languages & Databases:**
