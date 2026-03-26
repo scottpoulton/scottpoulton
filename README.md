@@ -1,4 +1,4 @@
-<h1>scott@README.md: ~$ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&color=FF79C6&vCenter=true&lines=%A0&repeat=false&width=30&height=40&cursor=%E2%96%88" alt="cursor" align="absmiddle" /></h1>
+<h1>scott@README.md: ~$ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&color=FF79C6&vCenter=true&lines=%20&repeat=false&width=30&height=40&cursor=_" alt="cursor" align="absmiddle" /></h1>
 
 > somewhere / nowhere
 
