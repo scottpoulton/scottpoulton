@@ -46,6 +46,3 @@
 * **Key Architecture:** CI/CD Pipeline Automation, PyTest Safety Suites, Offline-First Service Workers, WebRTC & HTML5 Canvas APIs, Automated Image Compression (Pillow/PIL), Google Cloud Vision OCR, Linux Server Administration.
 
 ---
-
-### Connect
-For my full portfolio, technical logs, and the easiest way to reach me, visit **[scottpoulton.com](https://scottpoulton.com)**.
