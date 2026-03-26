@@ -1,21 +1,24 @@
-# Hi, I'm Scott
+# scott@README.md: ~$
+
+> Perfect code is a myth. Shipping robust, high-performance tools that solve real problems is the metric that matters.
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=A9A9A9&vCenter=true&lines=Medical+Laboratory+Science.;Building+clinical+safety+tools.;Offline-first+architecture.;Automated+ETL+Pipelines." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=FF79C6&vCenter=true&lines=>+Medical+Laboratory+Science.;>+Building+clinical+safety+tools.;>+Offline-first+architecture.;>+Automated+ETL+Pipelines." alt="Typing SVG" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ### What I'm Building
 * **[TubeTutor](https://scottpoulton.com/tubetutor):** A production-ready clinical logic engine and Python ETL pipeline designed to eliminate pre-analytical phlebotomy errors. Protected by automated PyTest CI/CD safety suites.
-* **[Library](https://scottpoulton.com/library):** A searchable cloud archive of my 100TB+ local media server, driven by a custom Python to Supabase sync bridge.
+* **[Library](https://scottpoulton.com/library):** A searchable cloud archive of my 100TB+ local media server, driven by a custom Python-to-Supabase sync bridge.
 * **Cafe-Roster-PWA:** A lightweight, mobile-first rostering and timesheet Progressive Web App built in TypeScript for a local cafe.
 * **[PokéBinder](https://scottpoulton.com/buylist):** A full-stack collection management app featuring an automated Python bot for TCG API syncing and Google Vision OCR.
-* **HistoHelper AI:** Developing robust data pipelines to process gigapixel Whole Slide Images (SVS) for predictive morphology in oncology.
+* **HistoHelper AI:** Developing data pipelines to process gigapixel Whole Slide Images (.SVS) for predictive morphology in oncology.
+* **Easter Egg:** I engineered a custom, zero-dependency HTML5 Canvas endless runner (with synthesized Web Audio) for my [404 Page](https://scottpoulton.com/404).
 
-### Tech Stack & Architecture
+### Tech Stack & Daily Drivers
 **Languages & Databases:**
 ![JavaScript](https://img.shields.io/badge/vanilla_js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,19 +35,14 @@
 ![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
-* **Key Architecture:** Monorepo Management, Serverless Edge Computing, Automated Cron ETLs, REST API Integration, Offline-First Service Workers (Stale-While-Revalidate), PyTest Safety Suites.
+**Workflow:**
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Zed](https://img.shields.io/badge/zed-026E00?style=for-the-badge&logo=zed&logoColor=white)
+![Antigravity](https://img.shields.io/badge/import_antigravity-eeeeee?style=for-the-badge&logo=python&logoColor=3776AB)
 
-### Engineering Philosophy
-* **Pragmatism over bloat:** I build offline capable tools. I prefer writing clean, domain specific code over defaulting to heavy frameworks unless the scale demands it.
-* **Systems Thinking:** I engineer software the same way I approach clinical diagnostics: with a focus on strict workflows, error reduction, and understanding the underlying systems from the ground up.
+* **Key Architecture:** CI/CD Pipeline Automation, PyTest Safety Suites, Offline-First Service Workers, WebRTC & HTML5 Canvas APIs, Automated Image Compression (Pillow/PIL), Google Cloud Vision OCR.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=scottpoulton&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Scott's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottpoulton&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+---
 
 ### Connect
 For my full portfolio, technical logs, and the easiest way to reach me, visit **[scottpoulton.com](https://scottpoulton.com)**.
