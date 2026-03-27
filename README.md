@@ -30,16 +30,18 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 
 **Infrastructure & Tools**
 
-![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-black?style=for-the-badge&logo=deno&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-black?style=for-the-badge&logo=pytest&logoColor=white)
 ![Hugo](https://img.shields.io/badge/Hugo-black?style=for-the-badge&logo=hugo&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-black?style=for-the-badge&logo=pwa&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Homelab & Networking**
 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=fedora&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
 ![Plex](https://img.shields.io/badge/Plex-black?style=for-the-badge&logo=plex&logoColor=white)
@@ -53,12 +55,14 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 **Workflow**
 
 ![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=white)
+![Zen Browser](https://img.shields.io/badge/Zen_Browser-1E1E2E?style=for-the-badge&logo=data:image/svg+xml;base64,YOUR_BASE64_STRING_HERE&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-![Bear](https://img.shields.io/badge/Bear-black?style=for-the-badge&logo=bear&logoColor=white)
+![Bear](https://img.shields.io/badge/Bear-E04044?style=for-the-badge&logo=data:image/svg+xml;base64,YOUR_BASE64_STRING_HERE&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Hyper](https://img.shields.io/badge/Hyper-black?style=for-the-badge&logo=hyper&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 
 * **Key Architecture:** CI/CD Automation & PyTest Suites, REST API Integrations & Webhooks, Real-Time WebSockets (Socket.IO) & Secure JWT Auth, Offline-First Service Workers (PWA), Image Processing Pipelines (Pillow/OpenCV) & Cloud Vision OCR, HTML5 Canvas APIs, Linux Server Administration & Docker Deployment.
 
