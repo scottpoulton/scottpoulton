@@ -3,6 +3,7 @@
 <a href="https://www.last.fm/user/xyzg">
   <img src="https://lastfm-recently-played.vercel.app/api?user=xyzg&count=1&header_style=none&width=400&bg_color=0d1117" alt="Last.fm Now Playing" />
 </a>
+
 ---
 
 ### What I'm Building
