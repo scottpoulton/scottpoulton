@@ -13,36 +13,41 @@
 * **Easter Egg:** Zero dependency HTML5 Canvas endless runner game for my [404 Page](https://scottpoulton.com/404).
 
 ### Tech Stack 
+
 **Languages & Databases:**
-![JavaScript](https://img.shields.io/badge/vanilla_js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Vanilla_JS-black?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-black?style=for-the-badge&logo=latex&logoColor=white)
 
 **Infrastructure & Tools:**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![PyTest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2596be)
-![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-black?style=for-the-badge&logo=deno&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-black?style=for-the-badge&logo=pytest&logoColor=white)
+![Hugo](https://img.shields.io/badge/Hugo-black?style=for-the-badge&logo=hugo&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-black?style=for-the-badge&logo=pwa&logoColor=white)
 
 **Homelab & Networking:**
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-%23FFFFFF.svg?style=for-the-badge&logo=tailscale&logoColor=black)
-![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=fedora&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-black?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-black?style=for-the-badge&logo=pi-hole&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-black?style=for-the-badge&logo=wireguard&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-black?style=for-the-badge&logo=tailscale&logoColor=white)
+![Plex](https://img.shields.io/badge/Plex-black?style=for-the-badge&logo=plex&logoColor=white)
 
 **Workflow:**
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7B93E)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-* **Key Architecture:** CI/CD Pipeline Automation, PyTest Safety Suites, Offline-First Service Workers, WebRTC & HTML5 Canvas APIs, Automated Image Compression (Pillow/PIL), Google Cloud Vision OCR, Linux Server Administration.
+* **Key Architecture:** CI/CD Automation & PyTest Suites, REST API Integrations & Webhooks, Real-Time WebSockets (Socket.IO) & Secure JWT Auth, Offline-First Service Workers (PWA), Image Processing Pipelines (Pillow/OpenCV) & Cloud Vision OCR, HTML5 Canvas APIs, Linux Server Administration & Docker Deployment.
 
 ---
