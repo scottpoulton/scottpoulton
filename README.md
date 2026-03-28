@@ -62,7 +62,7 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 ![Zen Browser](https://img.shields.io/badge/Zen_Browser-black?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
 ![Hyper](https://img.shields.io/badge/Hyper-black?style=for-the-badge&logo=hyper&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=googlegemini&logoColor=white)
