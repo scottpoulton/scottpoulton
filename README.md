@@ -1,4 +1,4 @@
-# scott@README.md: ~$ █
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF1493&vCenter=true&random=false&width=400&lines=~%24+Hi,+I'm+Scott." alt="~$ Hi, I'm Scott." />
 
 $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 ---
@@ -7,7 +7,7 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
   <img src="https://lastfm-recently-played.vercel.app/api?user=xyzg&count=1&header_style=none&width=400&bg_color=0d1117" alt="Last.fm Now Playing" />
 </a>
 
----
+<img src="./neon-pink-line.png" width="100%" />
 
 ### What I'm Building
 * **[TubeTutor](https://scottpoulton.com/tubetutor):** A clinical logic engine and Python ETL pipeline designed to eliminate pre-analytical phlebotomy errors. 
@@ -16,6 +16,8 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 * **[PokéBinder](https://scottpoulton.com/buylist):** Personal collection management app featuring an automated Python bot for TCG API syncing and Google Vision OCR.
 * **HistoHelper AI:** Developing data pipelines to process gigapixel Whole Slide Images/.SVS files for predictive morphology in oncology.
 * **[Easter Egg](https://scottpoulton.com/404):** Zero dependency HTML5 Canvas endless runner game for my 404 Page.
+
+<img src="./neon-pink-line.png" width="100%" />
 
 ### Tech Stack 
 
@@ -56,7 +58,7 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 **Workflow**
 
 ![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=white)
-![Zen Browser](https://img.shields.io/badge/Zen_Browser-black?style=for-the-badge&logo=compass&logoColor=white)
+![Zen Browser](https://img.shields.io/badge/Zen_Browser-black?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
 ![Hyper](https://img.shields.io/badge/Hyper-black?style=for-the-badge&logo=hyper&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -64,7 +66,6 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 ![Obsidian](https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-
 * **Key Architecture:** Offline-First Service Workers (PWA) & HTML5 Canvas APIs, Real-Time WebSockets (Socket.IO) & Secure JWT Auth, REST API Integrations & Webhooks, Image Processing Pipelines (Pillow/OpenCV) & Cloud Vision OCR, CI/CD Automation & PyTest Suites, Linux Server Administration & Docker Deployment.
 
----
+<img src="./neon-pink-line.png" width="100%" />
