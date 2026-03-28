@@ -3,11 +3,12 @@
 $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 ---
 
+<br>
 <a href="https://www.last.fm/user/xyzg">
   <img src="https://lastfm-recently-played.vercel.app/api?user=xyzg&count=1&header_style=none&width=400&bg_color=0d1117" alt="Last.fm Now Playing" />
 </a>
 
-<img src="./neon-pink-line.png" width="100%" />
+---
 
 ### What I'm Building
 * **[TubeTutor](https://scottpoulton.com/tubetutor):** A clinical logic engine and Python ETL pipeline designed to eliminate pre-analytical phlebotomy errors. 
@@ -17,7 +18,7 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 * **HistoHelper AI:** Developing data pipelines to process gigapixel Whole Slide Images/.SVS files for predictive morphology in oncology.
 * **[Easter Egg](https://scottpoulton.com/404):** Zero dependency HTML5 Canvas endless runner game for my 404 Page.
 
-<img src="./neon-pink-line.png" width="100%" />
+---
 
 ### Tech Stack 
 
@@ -68,4 +69,4 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 
 * **Key Architecture:** Offline-First Service Workers (PWA) & HTML5 Canvas APIs, Real-Time WebSockets (Socket.IO) & Secure JWT Auth, REST API Integrations & Webhooks, Image Processing Pipelines (Pillow/OpenCV) & Cloud Vision OCR, CI/CD Automation & PyTest Suites, Linux Server Administration & Docker Deployment.
 
-<img src="./neon-pink-line.png" width="100%" />
+---
