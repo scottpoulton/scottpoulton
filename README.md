@@ -4,11 +4,6 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 
 ---
 
-<a href="https://www.last.fm/user/xyzg">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=xyzg&count=1&header_style=none&width=400&bg_color=0d1117" alt="Last.fm Now Playing" /></a>
-
----
-
 ### What I'm Building
 **[HistoHelper](https://scottpoulton.com/HistoHelper):** Deep learning MVP classifying primary vs. metastatic melanoma. 
 > **Stack:** *PyTorch, FastAPI, Python, Vanilla JS*
@@ -27,16 +22,6 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 
 **[Easter Egg](https://scottpoulton.com/404):** Zero-dependency endless runner for my 404 page. 
 > **Stack:** *HTML5 Canvas, Vanilla JS*
-
----
-
-### Project Logs
-<!-- BLOG-POST-LIST:START -->
-- [Project Log 4: Tensors, Transfer Learning, and Apple Silicon](https://www.scottpoulton.com/posts/project-log-004-tensors/)
-- [Project Log 3: The Great Decoupling &amp; Monorepo Standardisation](https://www.scottpoulton.com/posts/project-log-003-decoupling/)
-- [Project Log 2: The Needle in the Gigapixel Haystack](https://scottpoulton.com/posts/project-log-002-histohelper/)
-- [Project Log 1: Defining HistoHelper AI](https://www.scottpoulton.com/posts/project-log-001-defining/)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
