@@ -34,7 +34,6 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 <!-- BLOG-POST-LIST:START -->
 - [Project Log 4: Tensors, Transfer Learning, and Apple Silicon](https://www.scottpoulton.com/posts/project-log-004-tensors/)
 - [Project Log 3: The Great Decoupling &amp; Monorepo Standardisation](https://www.scottpoulton.com/posts/project-log-003-decoupling/)
-- [Back to Basics: Reclaiming autonomy](https://www.scottpoulton.com/posts/back-to-basics/)
 - [Project Log 1: Defining HistoHelper AI](https://www.scottpoulton.com/posts/project-log-001-defining/)
 <!-- BLOG-POST-LIST:END -->
 
