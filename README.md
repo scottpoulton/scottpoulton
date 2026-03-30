@@ -31,6 +31,10 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 ---
 
 ### Project Logs
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### Tech Stack 
