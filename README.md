@@ -55,7 +55,6 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 ![Fedora](https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=fedora&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-black?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-black?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-black?style=for-the-badge&logo=tailscale&logoColor=white)
