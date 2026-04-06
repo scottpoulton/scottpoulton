@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF1493&vCenter=true&random=false&width=400&lines=~%24+Hi,+I'm+Scott." alt="~$ Hi, I'm Scott." />
 
-$\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
+$\text{ATP(s) + Caffiene(aq)} \rightarrow \text{Gemini Prompts(g)}$
 
 ---
 
