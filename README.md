@@ -26,6 +26,7 @@ $\text{ATP(s) + Caffiene(aq)} \rightarrow \text{Gemini Prompts(g)}$
 ### Technical Arsenal
 
 **Languages & Databases**
+
 ![JavaScript](https://img.shields.io/badge/Vanilla_JS-black?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
@@ -33,6 +34,7 @@ $\text{ATP(s) + Caffiene(aq)} \rightarrow \text{Gemini Prompts(g)}$
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Infrastructure & Machine Learning**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -42,12 +44,14 @@ $\text{ATP(s) + Caffiene(aq)} \rightarrow \text{Gemini Prompts(g)}$
 ![PWA](https://img.shields.io/badge/PWA-black?style=for-the-badge&logo=pwa&logoColor=white)
 
 **Testing & CI/CD**
+
 ![PyTest](https://img.shields.io/badge/PyTest-black?style=for-the-badge&logo=pytest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
 
 **Homelab & Networking**
+
 ![Fedora](https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=fedora&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=cloudflare&logoColor=white)
