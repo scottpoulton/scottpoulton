@@ -58,9 +58,4 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 ![Traefik](https://img.shields.io/badge/Traefik-black?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-black?style=for-the-badge&logo=tailscale&logoColor=white)
 
-### Core Engineering Competencies
-* **Machine Learning & Computer Vision:** Designing PyTorch CNN architectures (ResNet18) and WSI segmentation pipelines using OpenCV and OpenSlide.
-* **Backend Microservices:** Building scalable, containerized FastAPI inference engines and deploying Deno Edge Functions for serverless OCR processing.
-* **Frontend Architecture:** Developing zero-dependency Vanilla JS applications, Offline-First Progressive Web Apps (PWA), and strict HTML5 Canvas rendering.
-* **Automated Data Pipelines:** Engineering Python ETL scripts managed by GitHub Actions cron jobs to extract, compress (Pillow), and sync external APIs with PostgreSQL databases.
-* **Quality Assurance:** Enforcing clinical safety logic via strictly typed schemas and automated CI/CD gating using PyTest and Jest.
+---
