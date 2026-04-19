@@ -23,8 +23,6 @@ $\text{ATP(s) + Nicotine(aq)} \rightarrow \text{Gemini Prompts(g)}$
 
 ---
 
-### Technical Arsenal
-
 **Languages & Databases**
 
 ![JavaScript](https://img.shields.io/badge/Vanilla_JS-black?style=for-the-badge&logo=javascript&logoColor=white)
